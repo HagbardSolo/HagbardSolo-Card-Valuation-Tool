@@ -1,4 +1,5 @@
 HagbardSolo Card Valuation Tool
+**The better the AI, the better the results**
 A practical valuation tool for trading card collectors, built to help you estimate realistic market values and buying ranges for sports cards and selected TCG cards.
 The tool is designed to make card pricing easier by combining the most important valuation factors in one place — including recent sales, grading, population data, serial numbering, parallels, autographs, patches, player relevance and regional market differences.
 It is especially useful for collectors who want a quick but structured way to decide whether a card is overpriced, fairly priced or a genuinely good deal.
