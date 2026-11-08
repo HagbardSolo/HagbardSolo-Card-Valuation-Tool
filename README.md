@@ -1,19 +1,11 @@
-# HagbardSolo Card Valuation Tool
+## Download – Version 5.1
 
-> **The better the AI, the better the results.**
+*HagbardSolo Card Valuation System 5.1*
 
-A practical valuation tool for trading card collectors, built to help you estimate realistic market values and buying ranges for sports cards and selected TCG cards.
-The tool is designed to make card pricing easier by combining the most important valuation factors in one place — including recent sales, grading, population data, serial numbering, parallels, autographs, patches, player relevance and regional market differences.
-It is especially useful for collectors who want a quick but structured way to decide whether a card is overpriced, fairly priced or a genuinely good deal.
-What you can use it for:
-- estimating realistic card values
-- comparing asking prices with market data
-- evaluating graded and raw cards
-- factoring in serial numbers, autos, patches and rarity
-- identifying potential buying opportunities
-- supporting trade and purchase decisions at card shows or online
-The tool is intended as a collector aid, not as a guaranteed appraisal. Trading card prices can change quickly depending on player performance, market trends, condition, grading results and buyer demand.
-Free download for the collecting community.
-Created by HagbardSolo
-Instagram: @hagbardsolo
-If you find it useful, feel free to share it with other collectors.****
+The latest version includes improved serial-number valuation, color-match hierarchy (Module 04B), and enhanced rarity calculations.
+
+[Download Version 5.1 (PDF)](https://github.com/HagbardSolo/HagbardSolo-Card-Valuation-Tool/blob/main/HagbardSolo%20Card%20Valuation%20System%205.1.pdf)
+
+Free for the collecting community.
+
+The better the AI, the better the results.
